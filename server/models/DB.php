@@ -1,6 +1,6 @@
 <?php
 
-/* A small convenience wrapper around ADOdb 5 library
+/* A small convenience wrapper around the ADOdb5 library
 */
 class DB {
 
